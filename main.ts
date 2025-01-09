@@ -27,7 +27,7 @@ class Point {
 
     }
 }
-
+/*
 let drawPoint = (point: Point) => {
     console.log(point.x, point.y);
 }
@@ -36,4 +36,5 @@ let getDistance = (pointA: Point, pointB: Point) => {
     console.log(pointA.x - pointB.x, pointA.y - pointB.y);
 }
 
-drawPoint({x: 1, y: 2});
+drawPoint({ x: 1, y: 2 });
+*/
